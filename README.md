@@ -1,5 +1,7 @@
 # giter8 template for projects using GitHub #
 
+test
+
 [![Build Status](http://ci.yuvimasory.com/job/sbt.g8/badge/icon)](http://ci.yuvimasory.com/job/sbt.g8/)
 
 ## Template features ##
