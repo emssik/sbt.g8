@@ -11,9 +11,9 @@ homepage := Some(url("https://github.com/$github_username$/$name;format="norm"$"
 
 startYear := Some(2013)
 
-licenses := Seq(
-  ("$project_license_name$", url("$project_license_url$"))
-)
+//licenses := Seq(
+//  ("$project_license_name$", url("$project_license_url$"))
+//)
 
 scmInfo := Some(
   ScmInfo(
