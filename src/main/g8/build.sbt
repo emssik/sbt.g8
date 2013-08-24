@@ -124,7 +124,7 @@ libraryDependencies ++= Seq (
   // -- testing --
   // "org.scalacheck" %% "scalacheck" % "1.10.0" % "test",
   // "org.specs2" %% "specs2" % "1.13",
-  // "org.scalatest" % "scalatest_2.10" % "2.0.M5b"
+  "org.scalatest" % "scalatest_2.10" % "2.0.M5b"
 )
 
 /* you may need these repos */
